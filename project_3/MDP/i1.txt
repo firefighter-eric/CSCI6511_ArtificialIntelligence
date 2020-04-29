@@ -1,0 +1,13 @@
+# Anything that follows # is a comment
+7
+# Signifies it is a 7 by 7 grid
+0.9                 # Gamma, Discount Factor
+0.8, 0.1, 0.1       # Noise – can have 3, or 4 parameters
+
+X,X,X,1,X,X,X       # X denotes: Not a terminal state.
+X,X,X,-1,X,1,X      # Anything other than X is a terminal state
+-1,X,X,-1,X,4,X     # Terminal values can be +ve, -ve or 0
+X,1,X,-1,X,1,X
+X,100,X,-100,X,3,X
+X,2,X,-1,X,3,X
+0,X,X,-1,X,1,X

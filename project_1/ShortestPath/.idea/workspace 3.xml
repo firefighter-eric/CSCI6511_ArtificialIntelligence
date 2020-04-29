@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0078fa25-8a5f-49a5-a233-43ae493ff6ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XfsRjKF9rySvN1wkWQEod7H1GN" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0078fa25-8a5f-49a5-a233-43ae493ff6ad" name="Default Changelist" comment="" />
+      <created>1581448477193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581448477193</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1219" y="500" key="FileChooserDialogImpl" timestamp="1581448498860">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1219" y="500" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1581448498860" />
+  </component>
+</project>
